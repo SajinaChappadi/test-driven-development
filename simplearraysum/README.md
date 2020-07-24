@@ -1,0 +1,1 @@
+This repository is to create a project by following TDD. The requirement is to write code to calculate the sum of array elements. I have followed TDD and used jUnit to develop unit tests. 
